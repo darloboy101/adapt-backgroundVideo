@@ -78,7 +78,7 @@
                         "title": "Mobile fallback",
                         "inputType": { "type": "Boolean", "options": [false, true]},
                         "validators": [],
-                        "help": "If enabled, the poster image will be displayed instead of the video on mobile devices",
+                        "help": "If enabled, the poster image will be displayed instead of the video on mobile devices"
                       }
                       
                     }
