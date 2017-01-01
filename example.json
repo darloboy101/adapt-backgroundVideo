@@ -4,6 +4,7 @@
                 "_poster": "course/en/video/explore.jpg",
                 "_mp4": "course/en/video/explore.mp4",
                 "_webm": "course/en/video/explore.webm",
-                "_overlay":true
+                "_overlay":true,
+                "fallback":true
             }
         },

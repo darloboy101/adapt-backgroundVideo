@@ -1,6 +1,6 @@
 {
 	"name": "adapt-backgroundVideo",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"framework": "^2.0.0",
 	"description": "An extension to add videos to the JSON block theme",
 	"main": "/js/adapt-backgroundVideo.js",

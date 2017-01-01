@@ -40,8 +40,13 @@
 }
 
 @media (max-width: 520px) {
-    .backgroundVideo-inner {
-        background: url('../../assets/fallback.jpg') center center / cover no-repeat;
+    .backgroundVideo-inner .video-fallback {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+        top: 0;
+        left: 0;
     }
 
     .backgroundVideo-inner video {

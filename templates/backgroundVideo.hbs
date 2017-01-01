@@ -6,4 +6,7 @@
 	{{#if _theme._backgroundVideo._overlay}}
 		<div class="video-overlay"></div>
 	{{/if}}
+	{{#if _theme._backgroundVideo._fallback}}
+		<div class="video-fallback" style="background: url('{{_theme._backgroundVideo._poster}}') center center / cover no-repeat;"></div>
+	{{/if}}
 </div>
